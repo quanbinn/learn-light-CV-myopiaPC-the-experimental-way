@@ -3,6 +3,7 @@
 
 ### 对几何形体进行建模
 
+- [多个坐标系](/chapters/.md)
 - [点](/chapters/.md)
 - [线](/chapters/.md)
 - [面](/chapters/.md)
@@ -10,10 +11,14 @@
 
 ### 用相机模仿人眼获取图像
 
-- [](/chapters/.md)
+- [人眼的视线深度，视野宽度和高度](/chapters/.md)
+- [形体遮挡](/chapters/.md)
 
-### 
+### 附录
 
-- [遮挡](/chapters/.md)
+- [布尔运算](/chapters/.md)
+- [镜面反射与渲染相关（vray + ue4）](/chapters/.md)
+
+
 
 
